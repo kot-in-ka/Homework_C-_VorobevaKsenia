@@ -5,9 +5,23 @@
 
 Console.Clear();
 Console.WriteLine("Введите трехзначное число ");
-string x = Console.ReadLine();
-if (x.Length == 3)
+int x = int.Parse(Console.ReadLine());
+void ChoisNumber()
 {
-  Console.WriteLine("Вторая цифра этого числа -> " + x[1]);  
+  if ((x < 100) || (x > 999))
+  {
+    Console.WriteLine("Это не трёхзначное число");
+  }
+  else
+  Console.WriteLine("Вторая цифра вашего числа = " + ((x/10)%10));
 }
-else Console.WriteLine("Это не трехзначное число");
+ChoisNumber();
+
+
+
+// string x = Console.ReadLine();
+// if (x.Length == 3)
+// {
+//   Console.WriteLine("Вторая цифра этого числа -> " + x[1]);  
+// }
+// else Console.WriteLine("Это не трехзначное число");

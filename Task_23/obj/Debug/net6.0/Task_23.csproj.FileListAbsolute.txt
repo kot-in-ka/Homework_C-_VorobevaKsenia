@@ -1,0 +1,15 @@
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\bin\Debug\net6.0\Task_23.exe
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\bin\Debug\net6.0\Task_23.deps.json
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\bin\Debug\net6.0\Task_23.runtimeconfig.json
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\bin\Debug\net6.0\Task_23.dll
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\bin\Debug\net6.0\Task_23.pdb
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.csproj.AssemblyReference.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.AssemblyInfoInputs.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.AssemblyInfo.cs
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.csproj.CoreCompileInputs.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.dll
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\refint\Task_23.dll
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.pdb
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\Task_23.genruntimeconfig.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_23\obj\Debug\net6.0\ref\Task_23.dll

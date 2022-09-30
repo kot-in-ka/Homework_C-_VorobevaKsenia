@@ -5,12 +5,32 @@
 
 Console.Clear();
 Console.WriteLine("Введите любое число, что бы узнать его третью цифру ");
-string x = Console.ReadLine();
-if (x.Length > 2)
+int x = Convert.ToInt32(Console.ReadLine());
+
+int CreateNumber()
 {
-  Console.WriteLine("Третья цифра этого числа -> " + x[2]);
+  x = (x/10)%10;
+  return 1;
+  
 }
-else 
+
+
+if (x>99 && x<1000)
+{
+  Console.WriteLine("Третья цифра этого числа -> " + x%10);
+}
+
+else
 {
   Console.WriteLine("Третьей цифры нет");
 }
+
+// string x = Console.ReadLine();
+// if (x.Length > 2)
+// {
+//   Console.WriteLine("Третья цифра этого числа -> " + x[2]);
+// }
+// else 
+// {
+//   Console.WriteLine("Третьей цифры нет");
+// }

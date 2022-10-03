@@ -1,0 +1,15 @@
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\bin\Debug\net6.0\Task_36.exe
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\bin\Debug\net6.0\Task_36.deps.json
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\bin\Debug\net6.0\Task_36.runtimeconfig.json
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\bin\Debug\net6.0\Task_36.dll
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\bin\Debug\net6.0\Task_36.pdb
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.csproj.AssemblyReference.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.AssemblyInfoInputs.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.AssemblyInfo.cs
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.csproj.CoreCompileInputs.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.dll
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\refint\Task_36.dll
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.pdb
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\Task_36.genruntimeconfig.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_36\obj\Debug\net6.0\ref\Task_36.dll

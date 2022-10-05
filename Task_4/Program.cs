@@ -25,3 +25,14 @@ if (c > max)
     max = c;
 }
 Console.WriteLine("Максимальное число из трех = " + max);
+
+// int max = a;
+// if (b > max)
+// {
+//     max = b;
+// }
+// if (c > max)
+// {
+//     max = c;
+// }
+// Console.WriteLine("Максимальное число из трех = " + max);

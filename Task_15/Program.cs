@@ -20,3 +20,4 @@ void ChoiceDay (int dayNumber)
   Console.WriteLine("не выходной");
 }
 ChoiceDay(dayNumber);
+

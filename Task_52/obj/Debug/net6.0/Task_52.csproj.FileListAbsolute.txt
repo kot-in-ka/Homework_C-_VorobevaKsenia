@@ -1,0 +1,5 @@
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_52\obj\Debug\net6.0\Task_52.csproj.AssemblyReference.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_52\obj\Debug\net6.0\Task_52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfoInputs.cache
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfo.cs
+D:\Geek Brains\С#\Homework_C#_VorobevaKsenia\Task_52\obj\Debug\net6.0\Task_52.csproj.CoreCompileInputs.cache

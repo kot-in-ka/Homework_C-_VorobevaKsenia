@@ -1,0 +1,15 @@
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\bin\Debug\net6.0\Task_62.exe
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\bin\Debug\net6.0\Task_62.deps.json
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\bin\Debug\net6.0\Task_62.runtimeconfig.json
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\bin\Debug\net6.0\Task_62.dll
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\bin\Debug\net6.0\Task_62.pdb
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.csproj.AssemblyReference.cache
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.AssemblyInfoInputs.cache
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.AssemblyInfo.cs
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.csproj.CoreCompileInputs.cache
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.dll
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\refint\Task_62.dll
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.pdb
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\Task_62.genruntimeconfig.cache
+D:\Geek Brains\С#\Homework_C-_VorobevaKsenia\Task_62\obj\Debug\net6.0\ref\Task_62.dll
